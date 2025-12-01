@@ -4,4 +4,3 @@ streamlit_folium
 yfinance
 plotly
 pandas
-re
